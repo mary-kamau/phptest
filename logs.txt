@@ -1,0 +1,2 @@
+Database Error: SQLSTATE[HY000] [1045] Access denied for user 'superuser'@'localhost' (using password: NO)
+Database Error: SQLSTATE[HY000] [1045] Access denied for user 'superuser'@'localhost' (using password: NO)
